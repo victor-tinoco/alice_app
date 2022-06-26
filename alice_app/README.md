@@ -1,4 +1,4 @@
-# service_providers
+# alice_app
 
 A new Flutter project.
 

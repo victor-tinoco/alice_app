@@ -1,4 +1,4 @@
-package com.example.service_providers
+package com.example.alice_app
 
 import io.flutter.embedding.android.FlutterActivity
 

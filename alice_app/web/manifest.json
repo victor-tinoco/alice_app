@@ -1,6 +1,6 @@
 {
-    "name": "service_providers",
-    "short_name": "service_providers",
+    "name": "alice_app",
+    "short_name": "alice_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

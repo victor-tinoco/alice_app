@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.service_providers">
+    package="com.example.alice_app">
    <application
-        android:label="service_providers"
+        android:label="alice_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
