@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:service_providers/service_providers.dart';
+import 'package:service_providers_module/service_providers_module.dart';
 
 void main() {
   test('adds one to input values', () {
